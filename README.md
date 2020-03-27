@@ -1,3 +1,4 @@
 # my_first_repo
 example
-mkore example
+more example
+fixed spelling mistake 
